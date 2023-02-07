@@ -22,6 +22,8 @@
 ### Краткая информация о данных
 Исходный датасет можно скачать по ссылке:
 https://disk.yandex.ru/d/VJECspkpgn7Zmg
+
+Графики Plotly Express в html-версиях, сохранены в папке Plotly
   
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
